@@ -4,7 +4,7 @@ First, make sure you have an active GitHub public access key. To do this, go to 
 
 Then, you can open to your computer's terminal. Navigate to the folder you want to store the repo in using cd. Then, type:
 
-    git clone https://github.com/SFavela-hub/KAC-Senior-Seminar
+    git clone https://github.com/ekweinst/stats_seminar_election.git
 
 When you do this, you'll be prompted to input your user and password. The username will be the username associated with your account. For me, that's "ekweinst." The password will be that personal access token you generated at the beginning. Once you've done that, the repo should be available at it's most current version in the place you put it. 
 
