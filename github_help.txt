@@ -10,7 +10,7 @@ When you do this, you'll be prompted to input your user and password. The userna
 
 
 
-If you ever want to check the status of the repo, as in see if the version you're working on is the most current version, you can use the command
+If you ever want to check the status of the repository, as in see if the version you're working on is the most current version, you can use the command
 
     git status
 
