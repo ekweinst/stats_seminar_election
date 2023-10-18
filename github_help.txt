@@ -2,7 +2,7 @@ Hey! Here's the instructions on how to pull from GitHub.
 
 First, make sure you have an active GitHub public access key. To do this, go to GitHub and navigate to your account settings. Click on "Developer Settings" at the very bottom of the page. Then, click "Personal access tokens" and use "Tokens (classic)" If you do not have an active token, generate one that will last at least to the end of the semester.
 
-Then, you can open to your computer's terminal. Navigate to the folder you want to store the repo in using cd. Then, type:
+Then, you can open to your Posit Cloud terminal (on the bottom of the screen between the Console and Background Jobs tab). Navigate to the folder you want to store the repo in using `cd`. Then, type:
 
     git clone https://github.com/ekweinst/stats_seminar_election.git
 
