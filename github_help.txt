@@ -1,0 +1,34 @@
+Hey! Here's the instructions on how to pull from GitHub.
+
+First, make sure you have an active GitHub public access key. To do this, go to GitHub and navigate to your account settings. Click on "Developer Settings" at the very bottom of the page. Then, click "Personal access tokens" and use "Tokens (classic)" If you do not have an active token, generate one that will last at least to the end of the semester.
+
+Then, you can open to your computer's terminal. Navigate to the folder you want to store the repo in using cd. Then, type:
+
+    git clone https://github.com/SFavela-hub/KAC-Senior-Seminar
+
+When you do this, you'll be prompted to input your user and password. The username will be the username associated with your account. For me, that's "ekweinst." The password will be that personal access token you generated at the beginning. Once you've done that, the repo should be available at it's most current version in the place you put it. 
+
+
+
+If you ever want to check the status of the repo, as in see if the version you're working on is the most current version, you can use the command
+
+    git status
+
+If you do need to pull the updated version, you can do so with the command:
+
+    git pull
+
+To commit any changes you make, type 
+
+    git add 
+
+And list any files you want to add. Then, type the following command, and put the version comment in the quotation marks.
+
+    git commit -m ""
+
+Finally, push the changes to GitHub with
+
+    git push
+
+That should be all :)
+
